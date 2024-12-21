@@ -35,8 +35,8 @@ Welcome to MAAB Academy, the gateway to your Business Intelligence (BI) career j
 
 | Project               | Description         |
 |-----------------------|---------------------|  
-| [Point of Sale](/projects/point_of_sale)             | Description 1       |
-| [Project 2]()             | Description 2       |
+| [Point of Sale](/projects/point_of_sale)             | Point of Sale Application       |
+| [Files to Tables](/projects//etl_files_to_tables)             | ETL Process to migrate files data to tables       |
 
 
 ---
