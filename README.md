@@ -35,7 +35,7 @@ Welcome to MAAB Academy, the gateway to your Business Intelligence (BI) career j
 
 | Project               | Description         |
 |-----------------------|---------------------|  
-| [Project 1]()             | Description 1       |
+| [Point of Sale](/projects/point_of_sale)             | Description 1       |
 | [Project 2]()             | Description 2       |
 
 
