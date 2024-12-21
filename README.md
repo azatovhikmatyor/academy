@@ -1,4 +1,4 @@
-<p align="center"><img src="https://academy.maab.uz/media/media_materials/home_page_carousel/_MG_8089.JPG" width="100%" height=350 style="object-fit:cover;" />
+<p align="center"><img src="images/maab_background.jpg" width="100%" height=350 style="object-fit:cover;" />
 </p>
 
 <h1><a href="https://academy.maab.uz" target="_blank" rel="noopener noreferrer"><img width="80" src="https://academy.maab.uz/static/assets/logo.png" alt="MAAB Logo"></a> <span style="color: #0F4C81">MAAB Academy</span>
