@@ -58,7 +58,7 @@ Welcome to MAAB Academy, the gateway to your Business Intelligence (BI) career j
 
 ---
 
-#### 4. [Power BI]() <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" style="width:100px;vertical-align:middle;" />
+#### 4. [Power BI]() <img src="images/powerbi_logo.png" style="width:100px;vertical-align:middle;" />
 
 - [Theme 1]()
 - [Theme 2]()
@@ -74,7 +74,7 @@ Welcome to MAAB Academy, the gateway to your Business Intelligence (BI) career j
 
 ---
 
-#### 5. [Azure Data Factory]() <img src="https://miro.medium.com/v2/resize:fit:1200/1*tx-9kWvKqoXvynaLG9ngBg.png" style="width:150px;vertical-align:middle;" />
+#### 5. [Azure Data Factory]() <img src="images/adf_logo.png" style="width:150px;vertical-align:middle;" />
 
 - [Theme 1]()
 - [Theme 2]()
